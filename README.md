@@ -1,5 +1,7 @@
 # zeus-harness-starter
 
+[![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://github.com/ZEUSLABZERO/zero-trace-lite)
+
 A small, free starting point for running work through Claude Code with a rule file you can read in a minute and one hook that actually refuses something.
 
 MIT-licensed · Python standard library only · nothing to install
