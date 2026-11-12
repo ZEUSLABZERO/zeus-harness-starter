@@ -34,7 +34,7 @@ Open `your-repo` in Claude Code. When the agent tries a commit that skips the ch
 
 The hook is a text match on the command. It does not follow what a script does once it runs, and other ways around a check are not matched: a seat belt, not a sandbox. This starter has no roles, no relay to a second AI, no board and no installer.
 
-Those are in the paid **ZEUS Autonomous Harness & Telemetry Kit** ($149, one-time): four parallel roles and a detached auditor, a guard with configurable rules, a stop report, a cross-AI audit relay, a local live board, a diagram generator and an installer with tests. It promises no results; a passing check is not a guarantee.
+Those are in the paid **ZEUS LAB Autonomous Harness & Telemetry Kit** ($149, one-time): four parallel roles and a detached auditor, a guard with configurable rules, a stop report, a cross-AI audit relay, a local live board, a diagram generator and an installer with tests. It promises no results; a passing check is not a guarantee.
 
 ## License
 
