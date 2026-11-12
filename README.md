@@ -43,3 +43,7 @@ MIT (see `LICENSE`). The paid kit is a separate product under its own license. �
 ---
 
 **日本語の要約：** Claude Code で作業するための、無料の小さな出発点です。1分で読める決まりのファイル（`CLAUDE.md`）と、検査を飛ばす commit のコマンドを実行前に断るフック1本が入っています。フックは文字列の一致で見る歯止めで、隔離環境ではありません。役割・別のAIへの受け渡し・稼働盤・導入スクリプトは、有料のキット（$149）にあります。
+
+## How much does a long thread re-send?
+
+A free in-browser calculator shows how the input of a long Claude Code thread grows with the square of its round trips, and what a slim `CLAUDE.md`, hooks and split threads change: https://zero-trace-ship-kit.zeus-lab-global.workers.dev/cost-guard/?utm_source=github_repo
