@@ -1,0 +1,6 @@
+{"t": 1794480000.0, "kind": "tool", "name": "Edit", "status": "done"}
+{"t": 1794480004.2, "kind": "gate", "name": "claims", "status": "pass", "ms": 703}
+{"t": 1794480009.8, "kind": "guard", "name": "Bash", "status": "deny", "note": "deny rule 1"}
+{"t": 1794480031.5, "kind": "review", "name": "landing-copy", "status": "start"}
+{"t": 1794480090.1, "kind": "review", "name": "landing-copy", "status": "done", "note": "FIX", "ms": 58600}
+{"t": 1794480120.0, "kind": "agent", "name": "cold-auditor", "status": "done"}
