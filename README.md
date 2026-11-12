@@ -1,12 +1,12 @@
 # zeus-harness-starter
 
-[![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://github.com/ZEUSLABZERO/zero-trace-lite)
+[![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/?utm_source=readme_badge)
 
 A small, free starting point for running work through Claude Code with a rule file you can read in a minute and one hook that actually refuses something.
 
 MIT-licensed · Python standard library only · nothing to install
 
-**[See a live board running with sample data](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/harness/)** | **[Our own board, measured check results](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/telemetry/)** | **[The full kit ($149)](https://zeuslab.gumroad.com/l/zeus-autonomous-harness-telemetry-kit)**
+**[See a live board running with sample data](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/harness/?utm_source=github_repo)** | **[Our own board, measured check results](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/telemetry/?utm_source=github_repo)** | **[The full kit ($149)](https://zeuslab.gumroad.com/l/zeus-autonomous-harness-telemetry-kit)**
 
 ![How work moves: conductor, gates, review relay, telemetry, delivery](docs/diagram.png)
 
