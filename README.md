@@ -14,7 +14,7 @@ MIT-licensed · Python standard library only · nothing to install
 |---|---|
 | `CLAUDE.md` | A slim rule file: who you write for, five rules, how work moves |
 | `hooks/guard_min.py` | One `PreToolUse` hook that refuses a commit command which skips the commit checks |
-| `.claude/settings.json` | The hook entry that wires it into Claude Code |
+| `docs/claude-settings.example.json` | The hook entry that wires it into Claude Code. Copy it to `.claude/settings.json` in your repository (or merge it into the one you have) |
 | `docs/events.sample.jsonl` | The event format a telemetry board can read: kind, name, state, duration — never tool inputs or outputs |
 | `docs/diagram.png` | The wiring, as a picture |
 
@@ -22,7 +22,8 @@ MIT-licensed · Python standard library only · nothing to install
 
 ```sh
 git clone https://github.com/ZEUSLABZERO/zeus-harness-starter.git
-cp -R zeus-harness-starter/hooks zeus-harness-starter/.claude your-repo/
+cp -R zeus-harness-starter/hooks your-repo/
+mkdir -p your-repo/.claude && cp zeus-harness-starter/docs/claude-settings.example.json your-repo/.claude/settings.json
 ```
 
 Open `your-repo` in Claude Code. When the agent tries a commit that skips the checks, the hook exits with code 2 and the agent is told to fix the cause instead.
