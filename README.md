@@ -10,6 +10,8 @@ MIT-licensed · Python standard library only · nothing to install
 
 **[See a live board running with sample data](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/harness/?utm_source=github_repo)** | **[Our own board, measured check results](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/telemetry/?utm_source=github_repo)** | **[The full kit ($149)](https://zeuslab.gumroad.com/l/zeus-autonomous-harness-telemetry-kit)**
 
+**New from ZEUS LAB — [FORMA](https://forma-zero.com/?utm_source=github_repo&utm_content=v55-readme):** live 3D and 4D web works you can launch as your own. The free starter (KAZE, $0) is a scroll-in launch page with every word in one `EDIT` block. MCP: `claude mcp add --transport http forma https://zeuslab-zero.com/mcp`
+
 More from ZEUS LAB: [every product, side by side](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/products/?utm_source=github_repo) · [the studio](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/hq/?utm_source=github_repo) · [free pack ($0): included files and a sample record](https://zeuslab.gumroad.com/l/pre-release-check-pack?utm_source=github_repo)
 
 Free tools that run in your browser, nothing uploaded: [Paste-Guard — mask names, companies and amounts before an AI chat](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/paste-guard/?utm_source=github_repo) · [Paste-Guard as a Chrome side-panel extension (free ZIP, one permission, no network)](https://github.com/ZEUSLABZERO/zero-trace-lite/releases/tag/paste-guard-extension-v1.0.2) · [Vision Score — pixel statistics of a screenshot or a video](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/vision/?utm_source=github_repo) · [Remix Dojo — five palettes and three type pairings on one slide](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/dojo/?utm_source=github_repo)
@@ -53,3 +55,4 @@ MIT (see `LICENSE`). The paid kit is a separate product under its own license. �
 ## How much does a long thread re-send?
 
 A free in-browser calculator shows how the input of a long Claude Code thread grows with the square of its round trips, and what a slim `CLAUDE.md`, hooks and split threads change: https://zero-trace-ship-kit.zeus-lab-global.workers.dev/cost-guard/?utm_source=github_repo
+
